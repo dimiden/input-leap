@@ -4,9 +4,9 @@ on:
   release:
 
   push:
-    branches: [ master ]
+    branches: [ master, dimiden-build ]
   pull_request:
-    branches: [ master ]
+    branches: [ master, dimiden-build ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
