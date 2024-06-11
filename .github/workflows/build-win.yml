@@ -1,4 +1,4 @@
-name: Build tests
+name: Build-Win
 
 on:
   release:
